@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="13-HEAP" Database="" Version="10.0.0">
+  <Project Name="1-1_insertion" Path="1-1_insertion/1-1_insertion.project" Active="No"/>
+  <Project Name="MinHeap" Path="MinHeap/MinHeap.project" Active="No"/>
+  <Project Name="MaxHeap" Path="MaxHeap/MaxHeap.project" Active="No"/>
+  <Project Name="excercies" Path="excercies/excercies.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_insertion" ConfigName="Debug"/>
+      <Project Name="MinHeap" ConfigName="Debug"/>
+      <Project Name="MaxHeap" ConfigName="Debug"/>
+      <Project Name="excercies" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_insertion" ConfigName="Release"/>
+      <Project Name="MinHeap" ConfigName="Release"/>
+      <Project Name="MaxHeap" ConfigName="Release"/>
+      <Project Name="excercies" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

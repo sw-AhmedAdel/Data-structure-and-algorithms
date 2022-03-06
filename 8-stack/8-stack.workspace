@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="8-stack" Database="" Version="10.0.0">
+  <Project Name="1-1_create_stack" Path="1-1_create_stack/1-1_create_stack.project" Active="No"/>
+  <Project Name="1-2_stack_usink_linked_list" Path="1-2_stack_usink_linked_list/1-2_stack_usink_linked_list.project" Active="No"/>
+  <Project Name="1-3_Parenthesis_Matching" Path="1-3_Parenthesis_Matching/1-3_Parenthesis_Matching.project" Active="No"/>
+  <Project Name="1-4_infixe_to_post_fix" Path="1-4_infixe_to_post_fix/1-4_infixe_to_post_fix.project" Active="No"/>
+  <Project Name="1-5_infix_to_pre" Path="precticee/precticee.project" Active="No"/>
+  <Project Name="1-6_evaluting_prefix" Path="1-6_evaluting_prefix/1-6_evaluting_prefix.project" Active="No"/>
+  <Project Name="1-7_evaluting_postfix" Path="1-6_evaluting_postfix/1-6_evaluting_postfix.project" Active="No"/>
+  <Project Name="1-8_convert_pre_post_to_infix" Path="1-8_convert_pre_post_to_infix/1-8_convert_pre_post_to_infix.project" Active="Yes"/>
+  <Project Name="1-9_con_pre_to_post_post_to_pre" Path="1-9_con_pre_to_post_post_to_pre/1-9_con_pre_to_post_post_to_pre.project" Active="No"/>
+  <Project Name="practice" Path="practice/practice.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_create_stack" ConfigName="Debug"/>
+      <Project Name="1-2_stack_usink_linked_list" ConfigName="Debug"/>
+      <Project Name="1-3_Parenthesis_Matching" ConfigName="Debug"/>
+      <Project Name="1-4_infixe_to_post_fix" ConfigName="Debug"/>
+      <Project Name="1-5_infix_to_pre" ConfigName="Debug"/>
+      <Project Name="1-6_evaluting_prefix" ConfigName="Debug"/>
+      <Project Name="1-7_evaluting_postfix" ConfigName="Debug"/>
+      <Project Name="1-8_convert_pre_post_to_infix" ConfigName="Debug"/>
+      <Project Name="1-9_con_pre_to_post_post_to_pre" ConfigName="Debug"/>
+      <Project Name="practice" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_create_stack" ConfigName="Release"/>
+      <Project Name="1-2_stack_usink_linked_list" ConfigName="Release"/>
+      <Project Name="1-3_Parenthesis_Matching" ConfigName="Release"/>
+      <Project Name="1-4_infixe_to_post_fix" ConfigName="Release"/>
+      <Project Name="1-5_infix_to_pre" ConfigName="Release"/>
+      <Project Name="1-6_evaluting_prefix" ConfigName="Release"/>
+      <Project Name="1-7_evaluting_postfix" ConfigName="Release"/>
+      <Project Name="1-8_convert_pre_post_to_infix" ConfigName="Release"/>
+      <Project Name="1-9_con_pre_to_post_post_to_pre" ConfigName="Release"/>
+      <Project Name="practice" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

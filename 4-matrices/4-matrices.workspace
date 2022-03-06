@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="4-matrices" Database="" Version="10.0.0">
+  <Project Name="1-1_Diagonal_Matrix" Path="1-1_Diagonal_Matrix/1-1_Diagonal_Matrix.project" Active="No"/>
+  <Project Name="1-2_class_for_digonal" Path="1-2/1-2.project" Active="No"/>
+  <Project Name="1-3_lower_traingle" Path="1-3_lower_traingle/1-3_lower_traingle.project" Active="No"/>
+  <Project Name="1-4_upper_traingle" Path="1-4_upper_traingle/1-4_upper_traingle.project" Active="No"/>
+  <Project Name="1-5_Symmetric_Matrix" Path="1-5_Symmetric_Matrix/1-5_Symmetric_Matrix.project" Active="No"/>
+  <Project Name="1-6_tri_diognal_tri_band_matrix" Path="1-6_tri_diognal_tri_band_matrix/1-6_tri_diognal_tri_band_matrix.project" Active="No"/>
+  <Project Name="1-7_Tri-Band_Matrix" Path="1-7_Tri-Band_Matrix/1-7_Tri-Band_Matrix.project" Active="Yes"/>
+  <Project Name="practicee" Path="practicee/practicee.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Diagonal_Matrix" ConfigName="Debug"/>
+      <Project Name="1-2_class_for_digonal" ConfigName="Debug"/>
+      <Project Name="1-3_lower_traingle" ConfigName="Debug"/>
+      <Project Name="1-4_upper_traingle" ConfigName="Debug"/>
+      <Project Name="1-5_Symmetric_Matrix" ConfigName="Debug"/>
+      <Project Name="1-6_tri_diognal_tri_band_matrix" ConfigName="Debug"/>
+      <Project Name="1-7_Tri-Band_Matrix" ConfigName="Debug"/>
+      <Project Name="practicee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Diagonal_Matrix" ConfigName="Release"/>
+      <Project Name="1-2_class_for_digonal" ConfigName="Release"/>
+      <Project Name="1-3_lower_traingle" ConfigName="Release"/>
+      <Project Name="1-4_upper_traingle" ConfigName="Release"/>
+      <Project Name="1-5_Symmetric_Matrix" ConfigName="Release"/>
+      <Project Name="1-6_tri_diognal_tri_band_matrix" ConfigName="Release"/>
+      <Project Name="1-7_Tri-Band_Matrix" ConfigName="Release"/>
+      <Project Name="practicee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

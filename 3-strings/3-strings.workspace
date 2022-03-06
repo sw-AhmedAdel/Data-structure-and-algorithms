@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="3-strings" Database="" Version="10.0.0">
+  <Project Name="1-1_chang_case_of_string" Path="a/a.project" Active="No"/>
+  <Project Name="1-2_counting_words" Path="1-2_counting_words/1-2_counting_words.project" Active="No"/>
+  <Project Name="1-3_validating_string" Path="1-3_validating_string/1-3_validating_string.project" Active="No"/>
+  <Project Name="1-4_reversing_string" Path="1-4_reversing_string/1-4_reversing_string.project" Active="No"/>
+  <Project Name="1-5_comparing_String" Path="1-5_comparing_String/1-5_comparing_String.project" Active="No"/>
+  <Project Name="1-6_palindrom" Path="1-6_palindrom/1-6_palindrom.project" Active="No"/>
+  <Project Name="1-7_dublicates" Path="1-7_dublicates/1-7_dublicates.project" Active="No"/>
+  <Project Name="1-8_dublicates_bitwise" Path="1-8_dublicates_bitwise/1-8_dublicates_bitwise.project" Active="No"/>
+  <Project Name="1-9_check_angarams" Path="1-9_check_angarams/1-9_check_angarams.project" Active="No"/>
+  <Project Name="2-1_premutation" Path="2-1/2-1.project" Active="No"/>
+  <Project Name="2-2_substracting_preumutaion_from_String" Path="test/test.project" Active="No"/>
+  <Project Name="4-find_last_word_length" Path="ppp/ppp.project" Active="No"/>
+  <Project Name="3-IS_SUBSEQUENCE" Path="3-IS_SUBSEQUENCE/3-IS_SUBSEQUENCE.project" Active="No"/>
+  <Project Name="practiceeeeeeee" Path="practiceeeeeeee/practiceeeeeeee.project" Active="No"/>
+  <Project Name="pppp" Path="pppp/pppp.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="Yes"/>
+  <Project Name="ttt" Path="ttt/ttt.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_chang_case_of_string" ConfigName="Debug"/>
+      <Project Name="1-2_counting_words" ConfigName="Debug"/>
+      <Project Name="1-3_validating_string" ConfigName="Debug"/>
+      <Project Name="1-4_reversing_string" ConfigName="Debug"/>
+      <Project Name="1-5_comparing_String" ConfigName="Debug"/>
+      <Project Name="1-6_palindrom" ConfigName="Debug"/>
+      <Project Name="1-7_dublicates" ConfigName="Debug"/>
+      <Project Name="1-8_dublicates_bitwise" ConfigName="Debug"/>
+      <Project Name="1-9_check_angarams" ConfigName="Debug"/>
+      <Project Name="2-1_premutation" ConfigName="Debug"/>
+      <Project Name="2-2_substracting_preumutaion_from_String" ConfigName="Debug"/>
+      <Project Name="4-find_last_word_length" ConfigName="Debug"/>
+      <Project Name="3-IS_SUBSEQUENCE" ConfigName="Debug"/>
+      <Project Name="practiceeeeeeee" ConfigName="Debug"/>
+      <Project Name="pppp" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="ttt" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_chang_case_of_string" ConfigName="Release"/>
+      <Project Name="1-2_counting_words" ConfigName="Release"/>
+      <Project Name="1-3_validating_string" ConfigName="Release"/>
+      <Project Name="1-4_reversing_string" ConfigName="Release"/>
+      <Project Name="1-5_comparing_String" ConfigName="Release"/>
+      <Project Name="1-6_palindrom" ConfigName="Release"/>
+      <Project Name="1-7_dublicates" ConfigName="Release"/>
+      <Project Name="1-8_dublicates_bitwise" ConfigName="Release"/>
+      <Project Name="1-9_check_angarams" ConfigName="Release"/>
+      <Project Name="2-1_premutation" ConfigName="Release"/>
+      <Project Name="2-2_substracting_preumutaion_from_String" ConfigName="Release"/>
+      <Project Name="4-find_last_word_length" ConfigName="Release"/>
+      <Project Name="3-IS_SUBSEQUENCE" ConfigName="Release"/>
+      <Project Name="practiceeeeeeee" ConfigName="Release"/>
+      <Project Name="pppp" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="ttt" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

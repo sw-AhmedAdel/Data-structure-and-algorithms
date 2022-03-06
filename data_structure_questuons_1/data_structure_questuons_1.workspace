@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="data_structure_questuons_1" Database="" Version="10.0.0">
+  <Project Name="1-LengthofLastWord" Path="1-LengthofLastWord/1-LengthofLastWord.project" Active="No"/>
+  <Project Name="2-reverse_string" Path="2-reverse_string/2-reverse_string.project" Active="No"/>
+  <Project Name="3-LongestCommonPrefix" Path="3-LongestCommonPrefix/3-LongestCommonPrefix.project" Active="No"/>
+  <Project Name="4-strings" Path="4-strings/4-strings.project" Active="No"/>
+  <Project Name="5-check_palindorm" Path="5-check_palindorm/5-check_palindorm.project" Active="No"/>
+  <Project Name="6-valid_panadrom" Path="6-valid_panadrom/6-valid_panadrom.project" Active="No"/>
+  <Project Name="7_two_sum_hash_map" Path="7_two_sum_hash_map/7_two_sum_hash_map.project" Active="No"/>
+  <Project Name="8-_RemoveAllAdjacentDuplicates" Path="8-_RemoveAllAdjacentDuplicates/8-_RemoveAllAdjacentDuplicates.project" Active="No"/>
+  <Project Name="9-RemoveAllAdjacent_2" Path="9-RemoveAllAdjacent_2/9-RemoveAllAdjacent_2.project" Active="No"/>
+  <Project Name="SectionarrayQuestions2Containerwater" Path="11_ContainerWithMostWater/11_ContainerWithMostWater.project" Active="No"/>
+  <Project Name="11_Recursive_sorted_array" Path="11_recursive_using_Arrays/11_recursive_using_Arrays.project" Active="No"/>
+  <Project Name="12_recursive_sum_Array" Path="12_recursive_sum_Array/12_recursive_sum_Array.project" Active="No"/>
+  <Project Name="13_recursive_find_number_in_Aray" Path="13_recursive_find_number_in_Aray/13_recursive_find_number_in_Aray.project" Active="No"/>
+  <Project Name="14_first_index_of_element" Path="14_first_index_of_element/14_first_index_of_element.project" Active="No"/>
+  <Project Name="15_find_last_element_index" Path="15_find_last_element_index/15_find_last_element_index.project" Active="No"/>
+  <Project Name="16-1_recursive_questions" Path="16_recurcive_array_questions/16_recurcive_array_questions.project" Active="No"/>
+  <Project Name="SectionArrayQuestions3TrappingRainwater" Path="Section3ArraysQuestionS3/Section3ArraysQuestionS3.project" Active="No"/>
+  <Project Name="16-2_print_Arraystring" Path="16-1_print_string/16-1_print_string.project" Active="No"/>
+  <Project Name="16-3_length_recursive" Path="16-3_length_recursive/16-3_length_recursive.project" Active="No"/>
+  <Project Name="16-4_replace_char_in_array" Path="16-4_replace_char_in_array/16-4_replace_char_in_array.project" Active="No"/>
+  <Project Name="16_5_remove_char_from_arra" Path="16_5_remove_char_from_arra/16_5_remove_char_from_arra.project" Active="No"/>
+  <Project Name="16-6_print_all_subsequence_string" Path="16-6_print_all_subsequence_string/16-6_print_all_subsequence_string.project" Active="No"/>
+  <Project Name="17_majority_array" Path="17_majority_array/17_majority_array.project" Active="No"/>
+  <Project Name="SectionStringQestioins1_typed_out" Path="SectionStringQestioins1_typed_out/SectionStringQestioins1_typed_out.project" Active="No"/>
+  <Project Name="SectionstringQuestion_3palindrom" Path="teeeeeeeeeeeeeeeeeeeeest/teeeeeeeeeeeeeeeeeeeeest.project" Active="No"/>
+  <Project Name="18_find_first_last_index" Path="18_find_first_last_index/18_find_first_last_index.project" Active="No"/>
+  <Project Name="SectionString2_longest_substring" Path="SectionString2_longest_substring/SectionString2_longest_substring.project" Active="Yes"/>
+  <Project Name="19_binary_search_in_rotated_array" Path="19_binary_search_in_rotated_array/19_binary_search_in_rotated_array.project" Active="No"/>
+  <Project Name="19_2_find_min_element_sort_rotate_Array" Path="19_2_find_min_element_sort_rotate_Array/19_2_find_min_element_sort_rotate_Array.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-LengthofLastWord" ConfigName="Debug"/>
+      <Project Name="2-reverse_string" ConfigName="Debug"/>
+      <Project Name="3-LongestCommonPrefix" ConfigName="Debug"/>
+      <Project Name="4-strings" ConfigName="Debug"/>
+      <Project Name="5-check_palindorm" ConfigName="Debug"/>
+      <Project Name="6-valid_panadrom" ConfigName="Debug"/>
+      <Project Name="7_two_sum_hash_map" ConfigName="Debug"/>
+      <Project Name="8-_RemoveAllAdjacentDuplicates" ConfigName="Debug"/>
+      <Project Name="9-RemoveAllAdjacent_2" ConfigName="Debug"/>
+      <Project Name="SectionarrayQuestions2Containerwater" ConfigName="Debug"/>
+      <Project Name="11_Recursive_sorted_array" ConfigName="Debug"/>
+      <Project Name="12_recursive_sum_Array" ConfigName="Debug"/>
+      <Project Name="13_recursive_find_number_in_Aray" ConfigName="Debug"/>
+      <Project Name="14_first_index_of_element" ConfigName="Debug"/>
+      <Project Name="15_find_last_element_index" ConfigName="Debug"/>
+      <Project Name="16-1_recursive_questions" ConfigName="Debug"/>
+      <Project Name="Section3ArraysQuestions2 " ConfigName="Debug"/>
+      <Project Name="SectionArrayQuestions3TrappingRainwater" ConfigName="Debug"/>
+      <Project Name="16-2_print_Arraystring" ConfigName="Debug"/>
+      <Project Name="16-3_length_recursive" ConfigName="Debug"/>
+      <Project Name="16-4_replace_char_in_array" ConfigName="Debug"/>
+      <Project Name="16_5_remove_char_from_arra" ConfigName="Debug"/>
+      <Project Name="16-6_print_all_subsequence_string" ConfigName="Debug"/>
+      <Project Name="17_majority_array" ConfigName="Debug"/>
+      <Project Name="SectionStringQestioins1_typed_out" ConfigName="Debug"/>
+      <Project Name="SectionstringQuestion_3palindrom" ConfigName="Debug"/>
+      <Project Name="18_find_first_last_index" ConfigName="Debug"/>
+      <Project Name="SectionString2_longest_substring" ConfigName="Debug"/>
+      <Project Name="19_binary_search_in_rotated_array" ConfigName="Debug"/>
+      <Project Name="19_2_find_min_element_sort_rotate_Array" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-LengthofLastWord" ConfigName="Release"/>
+      <Project Name="2-reverse_string" ConfigName="Release"/>
+      <Project Name="3-LongestCommonPrefix" ConfigName="Release"/>
+      <Project Name="4-strings" ConfigName="Release"/>
+      <Project Name="5-check_palindorm" ConfigName="Release"/>
+      <Project Name="6-valid_panadrom" ConfigName="Release"/>
+      <Project Name="7_two_sum_hash_map" ConfigName="Release"/>
+      <Project Name="8-_RemoveAllAdjacentDuplicates" ConfigName="Release"/>
+      <Project Name="9-RemoveAllAdjacent_2" ConfigName="Release"/>
+      <Project Name="SectionarrayQuestions2Containerwater" ConfigName="Release"/>
+      <Project Name="11_Recursive_sorted_array" ConfigName="Release"/>
+      <Project Name="12_recursive_sum_Array" ConfigName="Release"/>
+      <Project Name="13_recursive_find_number_in_Aray" ConfigName="Release"/>
+      <Project Name="14_first_index_of_element" ConfigName="Release"/>
+      <Project Name="15_find_last_element_index" ConfigName="Release"/>
+      <Project Name="16-1_recursive_questions" ConfigName="Release"/>
+      <Project Name="Section3ArraysQuestions2 " ConfigName="Release"/>
+      <Project Name="SectionArrayQuestions3TrappingRainwater" ConfigName="Release"/>
+      <Project Name="16-2_print_Arraystring" ConfigName="Release"/>
+      <Project Name="16-3_length_recursive" ConfigName="Release"/>
+      <Project Name="16-4_replace_char_in_array" ConfigName="Release"/>
+      <Project Name="16_5_remove_char_from_arra" ConfigName="Release"/>
+      <Project Name="16-6_print_all_subsequence_string" ConfigName="Release"/>
+      <Project Name="17_majority_array" ConfigName="Release"/>
+      <Project Name="SectionStringQestioins1_typed_out" ConfigName="Release"/>
+      <Project Name="SectionstringQuestion_3palindrom" ConfigName="Release"/>
+      <Project Name="18_find_first_last_index" ConfigName="Release"/>
+      <Project Name="SectionString2_longest_substring" ConfigName="Release"/>
+      <Project Name="19_binary_search_in_rotated_array" ConfigName="Release"/>
+      <Project Name="19_2_find_min_element_sort_rotate_Array" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="1-Recursion" Database="" Version="10.0.0">
+  <Project Name="1-1_introduction" Path="1-1_introduction/1-1_introduction.project" Active="No"/>
+  <Project Name="1-2_static_and_global_recursion" Path="1-2_static_and_global_recursion/1-2_static_and_global_recursion.project" Active="No"/>
+  <Project Name="1-3_tree_recursion" Path="1-3_tree_recursion/1-3_tree_recursion.project" Active="No"/>
+  <Project Name="1-4_Indirect_Recursion" Path="1-4_Indirect_Recursion/1-4_Indirect_Recursion.project" Active="No"/>
+  <Project Name="1-5_Nested_Recursion" Path="1-5_Nested_Recursion/1-5_Nested_Recursion.project" Active="No"/>
+  <Project Name="1-6_sum_of_number" Path="1-6_sum_of_number/1-6_sum_of_number.project" Active="No"/>
+  <Project Name="1-7_factorical" Path="1-7_factorical/1-7_factorical.project" Active="No"/>
+  <Project Name="1-8_power" Path="1-8_power/1-8_power.project" Active="No"/>
+  <Project Name="1-9_Fibonacci" Path="1-9_Fibonacci/1-9_Fibonacci.project" Active="No"/>
+  <Project Name="1-10_tower" Path="1-10_tower/1-10_tower.project" Active="No"/>
+  <Project Name="2-1_quiz_1" Path="2-2_test/2-2_test.project" Active="No"/>
+  <Project Name="2-2_quiz_2" Path="2-2_quiz_2/2-2_quiz_2.project" Active="Yes"/>
+  <Project Name="2-3_quiz_3" Path="2-3_quiz_3/2-3_quiz_3.project" Active="No"/>
+  <Project Name="3-1_practice" Path="3-1_practice/3-1_practice.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_introduction" ConfigName="Debug"/>
+      <Project Name="1-2_static_and_global_recursion" ConfigName="Debug"/>
+      <Project Name="1-3_tree_recursion" ConfigName="Debug"/>
+      <Project Name="1-4_Indirect_Recursion" ConfigName="Debug"/>
+      <Project Name="1-5_Nested_Recursion" ConfigName="Debug"/>
+      <Project Name="1-6_sum_of_number" ConfigName="Debug"/>
+      <Project Name="1-7_factorical" ConfigName="Debug"/>
+      <Project Name="1-8_power" ConfigName="Debug"/>
+      <Project Name="1-9_Fibonacci" ConfigName="Debug"/>
+      <Project Name="1-10_tower" ConfigName="Debug"/>
+      <Project Name="2-1_quiz_1" ConfigName="Debug"/>
+      <Project Name="2-2_quiz_2" ConfigName="Debug"/>
+      <Project Name="2-3_quiz_3" ConfigName="Debug"/>
+      <Project Name="3-1_practice" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_introduction" ConfigName="Release"/>
+      <Project Name="1-2_static_and_global_recursion" ConfigName="Release"/>
+      <Project Name="1-3_tree_recursion" ConfigName="Release"/>
+      <Project Name="1-4_Indirect_Recursion" ConfigName="Release"/>
+      <Project Name="1-5_Nested_Recursion" ConfigName="Release"/>
+      <Project Name="1-6_sum_of_number" ConfigName="Release"/>
+      <Project Name="1-7_factorical" ConfigName="Release"/>
+      <Project Name="1-8_power" ConfigName="Release"/>
+      <Project Name="1-9_Fibonacci" ConfigName="Release"/>
+      <Project Name="1-10_tower" ConfigName="Release"/>
+      <Project Name="2-1_quiz_1" ConfigName="Release"/>
+      <Project Name="2-2_quiz_2" ConfigName="Release"/>
+      <Project Name="2-3_quiz_3" ConfigName="Release"/>
+      <Project Name="3-1_practice" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

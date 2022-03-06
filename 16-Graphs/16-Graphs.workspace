@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="16-Graphs" Database="" Version="10.0.0">
+  <Project Name="1-1_Breadth_First_Search" Path="1-1_Breadth_First_Search/1-1_Breadth_First_Search.project" Active="No"/>
+  <Project Name="1-2_Depth_First_Search" Path="1-2_Depth_First_Search/1-2_Depth_First_Search.project" Active="No"/>
+  <Project Name="1-3_Depth_First_Stack" Path="1-3_Depth_First_Stack/1-3_Depth_First_Stack.project" Active="No"/>
+  <Project Name="1-5_primes_programes" Path="practiceee/practiceee.project" Active="No"/>
+  <Project Name="1-4_Prim_sProgram" Path="1-4_Prim_sProgram/1-4_Prim_sProgram.project" Active="Yes"/>
+  <Project Name="1-6_Kruskals_Program" Path="1-6_Kruskals_Program/1-6_Kruskals_Program.project" Active="No"/>
+  <Project Name="1-5_1_simple_primes" Path="er/er.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Breadth_First_Search" ConfigName="Debug"/>
+      <Project Name="1-2_Depth_First_Search" ConfigName="Debug"/>
+      <Project Name="1-3_Depth_First_Stack" ConfigName="Debug"/>
+      <Project Name="1-5_primes_programes" ConfigName="Debug"/>
+      <Project Name="1-4_Prim_sProgram" ConfigName="Debug"/>
+      <Project Name="1-6_Kruskals_Program" ConfigName="Debug"/>
+      <Project Name="1-5_1_simple_primes" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Breadth_First_Search" ConfigName="Release"/>
+      <Project Name="1-2_Depth_First_Search" ConfigName="Release"/>
+      <Project Name="1-3_Depth_First_Stack" ConfigName="Release"/>
+      <Project Name="1-5_primes_programes" ConfigName="Release"/>
+      <Project Name="1-4_Prim_sProgram" ConfigName="Release"/>
+      <Project Name="1-6_Kruskals_Program" ConfigName="Release"/>
+      <Project Name="1-5_1_simple_primes" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

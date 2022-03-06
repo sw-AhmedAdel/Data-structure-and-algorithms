@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="10-Trees" Database="" Version="10.0.0">
+  <Project Name="1-1_creating_bt_using_ques" Path="1-1_creating_bt_using_ques/1-1_creating_bt_using_ques.project" Active="No"/>
+  <Project Name="1-2_tree_using_queuse" Path="1-2_tree_using_queuse/1-2_tree_using_queuse.project" Active="No"/>
+  <Project Name="1-3_bt_using_queses" Path="1-3_bt_using_queses/1-3_bt_using_queses.project" Active="No"/>
+  <Project Name="practicess" Path="practicess/practicess.project" Active="No"/>
+  <Project Name="1-3_iterative" Path="1-3_iterative/1-3_iterative.project" Active="No"/>
+  <Project Name="1-4_set_operations" Path="1-4_set_operations/1-4_set_operations.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_creating_bt_using_ques" ConfigName="Debug"/>
+      <Project Name="1-2_tree_using_queuse" ConfigName="Debug"/>
+      <Project Name="1-3_bt_using_queses" ConfigName="Debug"/>
+      <Project Name="practicess" ConfigName="Debug"/>
+      <Project Name="1-3_iterative" ConfigName="Debug"/>
+      <Project Name="1-4_set_operations" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_creating_bt_using_ques" ConfigName="Release"/>
+      <Project Name="1-2_tree_using_queuse" ConfigName="Release"/>
+      <Project Name="1-3_bt_using_queses" ConfigName="Release"/>
+      <Project Name="practicess" ConfigName="Release"/>
+      <Project Name="1-3_iterative" ConfigName="Release"/>
+      <Project Name="1-4_set_operations" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

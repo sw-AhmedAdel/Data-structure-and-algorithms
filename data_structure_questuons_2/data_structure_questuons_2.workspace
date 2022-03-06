@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="data_structure_questuons_2" Database="" Version="10.0.0">
+  <Project Name="1_1_zigzag_patters" Path="1_1_zigzag_patters/1_1_zigzag_patters.project" Active="No"/>
+  <Project Name="1_2_find_single_elemet" Path="1_2_find_single_elemet/1_2_find_single_elemet.project" Active="No"/>
+  <Project Name="1_3_find_single_element_binarysearch" Path="1_3_find_single_element_binarysearch/1_3_find_single_element_binarysearch.project" Active="No"/>
+  <Project Name="1_4_stones_and_jwels" Path="1_4_stones_and_jwels/1_4_stones_and_jwels.project" Active="No"/>
+  <Project Name="1_5_FindLeadersArray" Path="1-5_Findleadersinarray/1-5_Findleadersinarray.project" Active="No"/>
+  <Project Name="1_6_jumb_game" Path="1_6_jumb_game/1_6_jumb_game.project" Active="No"/>
+  <Project Name="1_7_minimum_jump_game" Path="1-7_minimum_jump_game/1-7_minimum_jump_game.project" Active="No"/>
+  <Project Name="1_8_slice_String_in_vector" Path="1_8_slice_String_in_vector/1_8_slice_String_in_vector.project" Active="No"/>
+  <Project Name="section_9_reverse_linked_list_m_n" Path="section_9_reverse_linked_list_m_n/section_9_reverse_linked_list_m_n.project" Active="No"/>
+  <Project Name="1_9_find_premutations" Path="1_9_find_premutations/1_9_find_premutations.project" Active="No"/>
+  <Project Name="2_1_Rotate_Image" Path="2_1_Rotate_Image/2_1_Rotate_Image.project" Active="No"/>
+  <Project Name="section_9_merge_multy_duble_linkedlist" Path="section_9_merge_multy_duble_linkedlist/section_9_merge_multy_duble_linkedlist.project" Active="No"/>
+  <Project Name="2_2_Set_Matrix_Zero" Path="2_2_Set_Matrix_Zero/2_2_Set_Matrix_Zero.project" Active="No"/>
+  <Project Name="2_5_large_range" Path="practicee/practicee.project" Active="No"/>
+  <Project Name="section_9_cycle_dedected" Path="section_9_cycle_dedected/section_9_cycle_dedected.project" Active="No"/>
+  <Project Name="2_3_interaction_point_linked_list" Path="../6-_linked_list/5-2_interactiong_point/5-2_interactiong_point.project" Active="No"/>
+  <Project Name="2-4_find_middle" Path="../6-_linked_list/5-1_find_middle/5-1_find_middle.project" Active="No"/>
+  <Project Name="2-2_find_loop" Path="../6-_linked_list/2-2_find_loop/2-2_find_loop.project" Active="No"/>
+  <Project Name="2_4_parttion_linke_list" Path="2_4_parttion_linke_list/2_4_parttion_linke_list.project" Active="No"/>
+  <Project Name="section_10_minimum_brackets" Path="section_10_minimum_brackets/section_10_minimum_brackets.project" Active="No"/>
+  <Project Name="2_6_same_tree" Path="2_6_same_tree/2_6_same_tree.project" Active="No"/>
+  <Project Name="2_7Symmetric_Binary_Tree" Path="2_7Symmetric_Binary_Tree/2_7Symmetric_Binary_Tree.project" Active="No"/>
+  <Project Name="2_8_countnodes" Path="2_8_countnodes/2_8_countnodes.project" Active="No"/>
+  <Project Name="2_9_max_depth_or_height" Path="2_9_max_depth_or_height/2_9_max_depth_or_height.project" Active="No"/>
+  <Project Name="temp" Path="temp/temp.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_1_zigzag_patters" ConfigName="Debug"/>
+      <Project Name="1_2_find_single_elemet" ConfigName="Debug"/>
+      <Project Name="1_3_find_single_element_binarysearch" ConfigName="Debug"/>
+      <Project Name="1_4_stones_and_jwels" ConfigName="Debug"/>
+      <Project Name="1_5_FindLeadersArray" ConfigName="Debug"/>
+      <Project Name="1_6_jumb_game" ConfigName="Debug"/>
+      <Project Name="1_7_minimum_jump_game" ConfigName="Debug"/>
+      <Project Name="1_8_slice_String_in_vector" ConfigName="Debug"/>
+      <Project Name="section_9_reverse_linked_list_m_n" ConfigName="Debug"/>
+      <Project Name="1_9_find_premutations" ConfigName="Debug"/>
+      <Project Name="2_1_Rotate_Image" ConfigName="Debug"/>
+      <Project Name="section_9_merge_multy_duble_linkedlist" ConfigName="Debug"/>
+      <Project Name="2_2_Set_Matrix_Zero" ConfigName="Debug"/>
+      <Project Name="2_5_large_range" ConfigName="Debug"/>
+      <Project Name="section_9_cycle_dedected" ConfigName="Debug"/>
+      <Project Name="2_3_interaction_point_linked_list" ConfigName="Debug"/>
+      <Project Name="2-4_find_middle" ConfigName="Debug"/>
+      <Project Name="2-2_find_loop" ConfigName="Debug"/>
+      <Project Name="2_4_parttion_linke_list" ConfigName="Debug"/>
+      <Project Name="section_10_minimum_brackets" ConfigName="Debug"/>
+      <Project Name="2_6_same_tree" ConfigName="Debug"/>
+      <Project Name="2_7Symmetric_Binary_Tree" ConfigName="Debug"/>
+      <Project Name="2_8_countnodes" ConfigName="Debug"/>
+      <Project Name="2_9_max_depth_or_height" ConfigName="Debug"/>
+      <Project Name="temp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_1_zigzag_patters" ConfigName="Release"/>
+      <Project Name="1_2_find_single_elemet" ConfigName="Release"/>
+      <Project Name="1_3_find_single_element_binarysearch" ConfigName="Release"/>
+      <Project Name="1_4_stones_and_jwels" ConfigName="Release"/>
+      <Project Name="1_5_FindLeadersArray" ConfigName="Release"/>
+      <Project Name="1_6_jumb_game" ConfigName="Release"/>
+      <Project Name="1_7_minimum_jump_game" ConfigName="Release"/>
+      <Project Name="1_8_slice_String_in_vector" ConfigName="Release"/>
+      <Project Name="section_9_reverse_linked_list_m_n" ConfigName="Release"/>
+      <Project Name="1_9_find_premutations" ConfigName="Release"/>
+      <Project Name="2_1_Rotate_Image" ConfigName="Release"/>
+      <Project Name="section_9_merge_multy_duble_linkedlist" ConfigName="Release"/>
+      <Project Name="2_2_Set_Matrix_Zero" ConfigName="Release"/>
+      <Project Name="2_5_large_range" ConfigName="Release"/>
+      <Project Name="section_9_cycle_dedected" ConfigName="Release"/>
+      <Project Name="2_3_interaction_point_linked_list" ConfigName="Release"/>
+      <Project Name="2-4_find_middle" ConfigName="Release"/>
+      <Project Name="2-2_find_loop" ConfigName="Release"/>
+      <Project Name="2_4_parttion_linke_list" ConfigName="Release"/>
+      <Project Name="section_10_minimum_brackets" ConfigName="Release"/>
+      <Project Name="2_6_same_tree" ConfigName="Release"/>
+      <Project Name="2_7Symmetric_Binary_Tree" ConfigName="Release"/>
+      <Project Name="2_8_countnodes" ConfigName="Release"/>
+      <Project Name="2_9_max_depth_or_height" ConfigName="Release"/>
+      <Project Name="temp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

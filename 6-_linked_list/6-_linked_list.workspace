@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="6-_linked_list" Database="" Version="10.0.0">
+  <Project Name="1-1_linked_list" Path="1-1_linked_list/1-1_linked_list.project" Active="No"/>
+  <Project Name="1-2_inserting_linked_list" Path="1-2_inserting_linked_list/1-2_inserting_linked_list.project" Active="No"/>
+  <Project Name="1-3_insert_using_index_and_x" Path="sd/sd.project" Active="No"/>
+  <Project Name="1-4_inserting_at_last" Path="1-4_inserting_at_last/1-4_inserting_at_last.project" Active="No"/>
+  <Project Name="1-5_inserted_sorted_linked_list" Path="1-5_inserted_sorted_linked_list/1-5_inserted_sorted_linked_list.project" Active="No"/>
+  <Project Name="1-6_deleting" Path="1-6_deleting/1-6_deleting.project" Active="No"/>
+  <Project Name="1-7_check_sorted" Path="1-7_check_sorted/1-7_check_sorted.project" Active="No"/>
+  <Project Name="1-8_remove_dublicates" Path="1-8_remove_dublicates/1-8_remove_dublicates.project" Active="No"/>
+  <Project Name="1-9_reverses" Path="1-9_reverses/1-9_reverses.project" Active="No"/>
+  <Project Name="2-1_merging" Path="2-1_merging/2-1_merging.project" Active="No"/>
+  <Project Name="2-2_find_loop" Path="2-2_find_loop/2-2_find_loop.project" Active="No"/>
+  <Project Name="2-3_circular_linkedlist" Path="2-3_circular_linkedlist/2-3_circular_linkedlist.project" Active="No"/>
+  <Project Name="2-4_inserting" Path="2-4_inserting/2-4_inserting.project" Active="No"/>
+  <Project Name="2_5_deleting" Path="2_5_deleting/2_5_deleting.project" Active="No"/>
+  <Project Name="3-1_dubly_linked" Path="2-6_doubly/2-6_doubly.project" Active="No"/>
+  <Project Name="3-2_inserting" Path="3-2_inserting/3-2_inserting.project" Active="No"/>
+  <Project Name="3-3_deleting" Path="3-3_deleting/3-3_deleting.project" Active="No"/>
+  <Project Name="3-4_reserve" Path="3-4_reserve/3-4_reserve.project" Active="No"/>
+  <Project Name="4-1_circular" Path="4-1_circular/4-1_circular.project" Active="No"/>
+  <Project Name="4-2_insert" Path="4-2_insert/4-2_insert.project" Active="No"/>
+  <Project Name="4-3_delete" Path="4-3_delete/4-3_delete.project" Active="No"/>
+  <Project Name="5-1_find_middle" Path="5-1_find_middle/5-1_find_middle.project" Active="No"/>
+  <Project Name="5-2_interactiong_point" Path="5-2_interactiong_point/5-2_interactiong_point.project" Active="No"/>
+  <Project Name="practiceeee" Path="practiceeee/practiceeee.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_linked_list" ConfigName="Debug"/>
+      <Project Name="1-2_inserting_linked_list" ConfigName="Debug"/>
+      <Project Name="1-3_insert_using_index_and_x" ConfigName="Debug"/>
+      <Project Name="1-4_inserting_at_last" ConfigName="Debug"/>
+      <Project Name="1-5_inserted_sorted_linked_list" ConfigName="Debug"/>
+      <Project Name="1-6_deleting" ConfigName="Debug"/>
+      <Project Name="1-7_check_sorted" ConfigName="Debug"/>
+      <Project Name="1-8_remove_dublicates" ConfigName="Debug"/>
+      <Project Name="1-9_reverses" ConfigName="Debug"/>
+      <Project Name="2-1_merging" ConfigName="Debug"/>
+      <Project Name="2-2_find_loop" ConfigName="Debug"/>
+      <Project Name="2-3_circular_linkedlist" ConfigName="Debug"/>
+      <Project Name="2-4_inserting" ConfigName="Debug"/>
+      <Project Name="2_5_deleting" ConfigName="Debug"/>
+      <Project Name="3-1_dubly_linked" ConfigName="Debug"/>
+      <Project Name="3-2_inserting" ConfigName="Debug"/>
+      <Project Name="3-3_deleting" ConfigName="Debug"/>
+      <Project Name="3-4_reserve" ConfigName="Debug"/>
+      <Project Name="4-1_circular" ConfigName="Debug"/>
+      <Project Name="4-2_insert" ConfigName="Debug"/>
+      <Project Name="4-3_delete" ConfigName="Debug"/>
+      <Project Name="5-1_find_middle" ConfigName="Debug"/>
+      <Project Name="5-2_interactiong_point" ConfigName="Debug"/>
+      <Project Name="practiceeee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_linked_list" ConfigName="Release"/>
+      <Project Name="1-2_inserting_linked_list" ConfigName="Release"/>
+      <Project Name="1-3_insert_using_index_and_x" ConfigName="Release"/>
+      <Project Name="1-4_inserting_at_last" ConfigName="Release"/>
+      <Project Name="1-5_inserted_sorted_linked_list" ConfigName="Release"/>
+      <Project Name="1-6_deleting" ConfigName="Release"/>
+      <Project Name="1-7_check_sorted" ConfigName="Release"/>
+      <Project Name="1-8_remove_dublicates" ConfigName="Release"/>
+      <Project Name="1-9_reverses" ConfigName="Release"/>
+      <Project Name="2-1_merging" ConfigName="Release"/>
+      <Project Name="2-2_find_loop" ConfigName="Release"/>
+      <Project Name="2-3_circular_linkedlist" ConfigName="Release"/>
+      <Project Name="2-4_inserting" ConfigName="Release"/>
+      <Project Name="2_5_deleting" ConfigName="Release"/>
+      <Project Name="3-1_dubly_linked" ConfigName="Release"/>
+      <Project Name="3-2_inserting" ConfigName="Release"/>
+      <Project Name="3-3_deleting" ConfigName="Release"/>
+      <Project Name="3-4_reserve" ConfigName="Release"/>
+      <Project Name="4-1_circular" ConfigName="Release"/>
+      <Project Name="4-2_insert" ConfigName="Release"/>
+      <Project Name="4-3_delete" ConfigName="Release"/>
+      <Project Name="5-1_find_middle" ConfigName="Release"/>
+      <Project Name="5-2_interactiong_point" ConfigName="Release"/>
+      <Project Name="practiceeee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

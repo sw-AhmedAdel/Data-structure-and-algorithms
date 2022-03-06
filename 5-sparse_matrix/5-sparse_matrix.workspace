@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="5-sparse_matrix" Database="" Version="10.0.0">
+  <Project Name="1-1_code_sparse_matrix" Path="1-1_code_sparse_matrix/1-1_code_sparse_matrix.project" Active="No"/>
+  <Project Name="2-2_add_methods_to_sparse" Path="2-2_add_methods_to_sparse/2-2_add_methods_to_sparse.project" Active="No"/>
+  <Project Name="1-2_usning_ostream_istream" Path="1-2_usning_ostream_istream/1-2_usning_ostream_istream.project" Active="No"/>
+  <Project Name="3-1_Polynomial" Path="practice/practice.project" Active="Yes"/>
+  <Project Name="practicee" Path="practicee/practicee.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_code_sparse_matrix" ConfigName="Debug"/>
+      <Project Name="2-2_add_methods_to_sparse" ConfigName="Debug"/>
+      <Project Name="1-2_usning_ostream_istream" ConfigName="Debug"/>
+      <Project Name="3-1_Polynomial" ConfigName="Debug"/>
+      <Project Name="practicee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_code_sparse_matrix" ConfigName="Release"/>
+      <Project Name="2-2_add_methods_to_sparse" ConfigName="Release"/>
+      <Project Name="1-2_usning_ostream_istream" ConfigName="Release"/>
+      <Project Name="3-1_Polynomial" ConfigName="Release"/>
+      <Project Name="practicee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

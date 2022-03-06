@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="11-Bst" Database="" Version="10.0.0">
+  <Project Name="1-1_implement_bst" Path="1-1_implement_bst/1-1_implement_bst.project" Active="No"/>
+  <Project Name="1-2_implement_inserting_searching" Path="1-1_searching/1-1_searching.project" Active="No"/>
+  <Project Name="1-4_generating_bst_from_preorder" Path="practicese/practicese.project" Active="No"/>
+  <Project Name="1-3_delete" Path="1-3_delete/1-3_delete.project" Active="No"/>
+  <Project Name="practiceee" Path="practiceee/practiceee.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_implement_bst" ConfigName="Debug"/>
+      <Project Name="1-2_implement_inserting_searching" ConfigName="Debug"/>
+      <Project Name="1-4_generating_bst_from_preorder" ConfigName="Debug"/>
+      <Project Name="1-3_delete" ConfigName="Debug"/>
+      <Project Name="practiceee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_implement_bst" ConfigName="Release"/>
+      <Project Name="1-2_implement_inserting_searching" ConfigName="Release"/>
+      <Project Name="1-4_generating_bst_from_preorder" ConfigName="Release"/>
+      <Project Name="1-3_delete" ConfigName="Release"/>
+      <Project Name="practiceee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

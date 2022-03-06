@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="15-Hash_table" Database="" Version="10.0.0">
+  <Project Name="1-1_code_chaining_open_hash" Path="1-1_code_chaining_open_hash/1-1_code_chaining_open_hash.project" Active="No"/>
+  <Project Name="1-4_doubleHashing" Path="as/as.project" Active="No"/>
+  <Project Name="1-2_linear_probing" Path="1-2_linear_probing/1-2_linear_probing.project" Active="No"/>
+  <Project Name="1-3_Quadratic_Probing" Path="1-3_Quadratic_Probing/1-3_Quadratic_Probing.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_code_chaining_open_hash" ConfigName="Debug"/>
+      <Project Name="1-4_doubleHashing" ConfigName="Debug"/>
+      <Project Name="1-2_linear_probing" ConfigName="Debug"/>
+      <Project Name="1-3_Quadratic_Probing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_code_chaining_open_hash" ConfigName="Release"/>
+      <Project Name="1-4_doubleHashing" ConfigName="Release"/>
+      <Project Name="1-2_linear_probing" ConfigName="Release"/>
+      <Project Name="1-3_Quadratic_Probing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

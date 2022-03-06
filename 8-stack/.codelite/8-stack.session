@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="E:\programming\Mastering_data_Structure\8-stack\8-stack.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="E:\programming\Mastering_data_Structure\8-stack\8-stack.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\programming\Mastering_data_Structure\8-stack\1-9_con_pre_to_post_post_to_pre\main.cpp" Name="FileName"/>
+      <int Value="39" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

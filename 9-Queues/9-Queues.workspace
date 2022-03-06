@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="9-Queues" Database="" Version="10.0.0">
+  <Project Name="1-1_queues_array" Path="1-1_queues_array/1-1_queues_array.project" Active="No"/>
+  <Project Name="1-2_circular_queues" Path="1-2_circular_queues/1-2_circular_queues.project" Active="No"/>
+  <Project Name="1-3_implement_linked_list" Path="1-3_implement_linked_list/1-3_implement_linked_list.project" Active="No"/>
+  <Project Name="1-4_queuse_using_stack" Path="1-4_queuse_using_stack/1-4_queuse_using_stack.project" Active="No"/>
+  <Project Name="1_5_deque" Path="1_5_deque/1_5_deque.project" Active="Yes"/>
+  <Project Name="practiceee" Path="practiceee/practiceee.project" Active="No"/>
+  <Project Name="1-3_1_circular_linked_list" Path="1-3_1_circular_linked_list/1-3_1_circular_linked_list.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_queues_array" ConfigName="Debug"/>
+      <Project Name="1-2_circular_queues" ConfigName="Debug"/>
+      <Project Name="1-3_implement_linked_list" ConfigName="Debug"/>
+      <Project Name="1-4_queuse_using_stack" ConfigName="Debug"/>
+      <Project Name="1_5_deque" ConfigName="Debug"/>
+      <Project Name="practiceee" ConfigName="Debug"/>
+      <Project Name="1-3_1_circular_linked_list" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_queues_array" ConfigName="Release"/>
+      <Project Name="1-2_circular_queues" ConfigName="Release"/>
+      <Project Name="1-3_implement_linked_list" ConfigName="Release"/>
+      <Project Name="1-4_queuse_using_stack" ConfigName="Release"/>
+      <Project Name="1_5_deque" ConfigName="Release"/>
+      <Project Name="practiceee" ConfigName="Release"/>
+      <Project Name="1-3_1_circular_linked_list" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="7-Sparse_Matrix_poly_linked_list" Database="" Version="10.0.0">
+  <Project Name="1-1_sparse_matrix_using_linked_list" Path="1-1_sparse_matrix_using_linked_list/1-1_sparse_matrix_using_linked_list.project" Active="No"/>
+  <Project Name="1-2_Polynomial_linked_list" Path="1-2_Polynomial_linked_list/1-2_Polynomial_linked_list.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_sparse_matrix_using_linked_list" ConfigName="Debug"/>
+      <Project Name="1-2_Polynomial_linked_list" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_sparse_matrix_using_linked_list" ConfigName="Release"/>
+      <Project Name="1-2_Polynomial_linked_list" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

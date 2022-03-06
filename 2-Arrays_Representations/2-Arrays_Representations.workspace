@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="2-Arrays_Representations" Database="" Version="10.0.0">
+  <Project Name="1-2d_array" Path="1-2d_array/1-2d_array.project" Active="No"/>
+  <Project Name="1-3_demo_array" Path="1-2_demo_array_adt/1-2_demo_array_adt.project" Active="No"/>
+  <Project Name="1-4_inserting_Array" Path="1-4_inserting_Array/1-4_inserting_Array.project" Active="No"/>
+  <Project Name="1-5_deleting_array" Path="1-4_deleting_array/1-4_deleting_array.project" Active="No"/>
+  <Project Name="1-6_linear_search" Path="1-6_linear_search/1-6_linear_search.project" Active="No"/>
+  <Project Name="1-7_binary_Search" Path="1-7_binary_Search/1-7_binary_Search.project" Active="No"/>
+  <Project Name="1-8_another_functions" Path="1-8_another_functions/1-8_another_functions.project" Active="No"/>
+  <Project Name="1-9_reserve_array" Path="1-9_reserve_array/1-9_reserve_array.project" Active="No"/>
+  <Project Name="2-1_sorted_array" Path="1-10_sorted_Array/1-10_sorted_Array.project" Active="No"/>
+  <Project Name="2-2_merging_array" Path="2-2_merging_array/2-2_merging_array.project" Active="No"/>
+  <Project Name="2-3_operations" Path="2-3_operations/2-3_operations.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="2-4_class_Array_in_heap" Path="practice/practice.project" Active="No"/>
+  <Project Name="3-1_finding_missing_number" Path="3-1_finding_missing_number/3-1_finding_missing_number.project" Active="No"/>
+  <Project Name="3-2_finding_multiple_missing" Path="3-2_finding_multiple_missing/3-2_finding_multiple_missing.project" Active="No"/>
+  <Project Name="3-3_finding_missing_hash_Table" Path="3-3_finding_missing_hash_Table/3-3_finding_missing_hash_Table.project" Active="No"/>
+  <Project Name="3-4_finding_dublicates_sorted_Array" Path="3-4_finding_dublicates_sorted_Array/3-4_finding_dublicates_sorted_Array.project" Active="No"/>
+  <Project Name="3-5_findinf_dub_in_sorted_hash" Path="3-5_findind_dub_in_hash/3-5_findind_dub_in_hash.project" Active="No"/>
+  <Project Name="3-6_finding_dub_unsorted" Path="3-6_finding_dub_unsorted/3-6_finding_dub_unsorted.project" Active="Yes"/>
+  <Project Name="3-7_finding_pair_sum_unsorted" Path="3-7_finding_pair_sum_unsorted/3-7_finding_pair_sum_unsorted.project" Active="No"/>
+  <Project Name="3-8_finding_pair_sorted_array" Path="3-8_finding_pair_sorted_array/3-8_finding_pair_sorted_array.project" Active="No"/>
+  <Project Name="4-practice" Path="4-practice/4-practice.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-2d_array" ConfigName="Debug"/>
+      <Project Name="1-3_demo_array" ConfigName="Debug"/>
+      <Project Name="1-4_inserting_Array" ConfigName="Debug"/>
+      <Project Name="1-5_deleting_array" ConfigName="Debug"/>
+      <Project Name="1-6_linear_search" ConfigName="Debug"/>
+      <Project Name="1-7_binary_Search" ConfigName="Debug"/>
+      <Project Name="1-8_another_functions" ConfigName="Debug"/>
+      <Project Name="1-9_reserve_array" ConfigName="Debug"/>
+      <Project Name="2-1_sorted_array" ConfigName="Debug"/>
+      <Project Name="2-2_merging_array" ConfigName="Debug"/>
+      <Project Name="2-3_operations" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="2-4_class_Array_in_heap" ConfigName="Debug"/>
+      <Project Name="3-1_finding_missing_number" ConfigName="Debug"/>
+      <Project Name="3-2_finding_multiple_missing" ConfigName="Debug"/>
+      <Project Name="3-3_finding_missing_hash_Table" ConfigName="Debug"/>
+      <Project Name="3-4_finding_dublicates_sorted_Array" ConfigName="Debug"/>
+      <Project Name="3-5_findinf_dub_in_sorted_hash" ConfigName="Debug"/>
+      <Project Name="3-6_finding_dub_unsorted" ConfigName="Debug"/>
+      <Project Name="3-7_finding_pair_sum_unsorted" ConfigName="Debug"/>
+      <Project Name="3-8_finding_pair_sorted_array" ConfigName="Debug"/>
+      <Project Name="4-practice" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-2d_array" ConfigName="Release"/>
+      <Project Name="1-3_demo_array" ConfigName="Release"/>
+      <Project Name="1-4_inserting_Array" ConfigName="Release"/>
+      <Project Name="1-5_deleting_array" ConfigName="Release"/>
+      <Project Name="1-6_linear_search" ConfigName="Release"/>
+      <Project Name="1-7_binary_Search" ConfigName="Release"/>
+      <Project Name="1-8_another_functions" ConfigName="Release"/>
+      <Project Name="1-9_reserve_array" ConfigName="Release"/>
+      <Project Name="2-1_sorted_array" ConfigName="Release"/>
+      <Project Name="2-2_merging_array" ConfigName="Release"/>
+      <Project Name="2-3_operations" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="2-4_class_Array_in_heap" ConfigName="Release"/>
+      <Project Name="3-1_finding_missing_number" ConfigName="Release"/>
+      <Project Name="3-2_finding_multiple_missing" ConfigName="Release"/>
+      <Project Name="3-3_finding_missing_hash_Table" ConfigName="Release"/>
+      <Project Name="3-4_finding_dublicates_sorted_Array" ConfigName="Release"/>
+      <Project Name="3-5_findinf_dub_in_sorted_hash" ConfigName="Release"/>
+      <Project Name="3-6_finding_dub_unsorted" ConfigName="Release"/>
+      <Project Name="3-7_finding_pair_sum_unsorted" ConfigName="Release"/>
+      <Project Name="3-8_finding_pair_sorted_array" ConfigName="Release"/>
+      <Project Name="4-practice" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
